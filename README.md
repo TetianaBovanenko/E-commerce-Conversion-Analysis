@@ -1,4 +1,4 @@
-# E-commerce-Conversion-Analysis
+# E-commerce Conversion Analysis
 
 Technology Stack:
 BigQuery (CTE, regular expressions, data aggregation, function, joins)
